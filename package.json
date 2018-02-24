@@ -1,0 +1,32 @@
+{
+  "name": "imerge-loader",
+  "version": "0.1.0",
+  "description": "CSS sprite tool",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":"git",
+    "url": "git+https://github.com/ysk2014/imerge-loader.git"
+  },
+  "author": {
+    "name": "claus",
+    "url": "https://github.com/ysk2014"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "~1.0.0",
+    "css": "~2.2.0",
+    "dateformat": "~1.0.11",
+    "fs-extra": "~0.16.3",
+    "hash-sum": "^1.0.2",
+    "jimp": "^0.2.24",
+    "lodash": "~2.4.1",
+    "q": "~1.2.0",
+    "webpack-sources": "^1.1.0"
+  }
+}
