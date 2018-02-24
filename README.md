@@ -9,7 +9,7 @@ webpack的css合图插件
 ## 安装
 
 ```js
-npm install -g imerge-loader
+npm install --save-dev imerge-loader
 ```
 
 ## 使用方法
