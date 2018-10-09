@@ -8,6 +8,14 @@ webpack的css合图插件
 
 ## 安装
 
+> webpack v3
+
+```js
+npm install --save-dev imerge-loader@0
+```
+
+> webpack v4
+
 ```js
 npm install --save-dev imerge-loader
 ```
